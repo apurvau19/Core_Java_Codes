@@ -1,0 +1,20 @@
+package basicPrograms;
+
+import java.util.*;
+
+public class HelloWorld {
+public static void main(String[] args) {
+	
+	
+	
+	ArrayList al= new ArrayList();
+}
+	
+
+
+
+
+
+
+
+}

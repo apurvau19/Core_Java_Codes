@@ -1,0 +1,10 @@
+
+C:\Users\apurv\OneDrive\Desktop\Core Java Workspace\NotepadJavaFiles>javac HelloWorld.java
+
+C:\Users\apurv\OneDrive\Desktop\Core Java Workspace\NotepadJavaFiles>java HelloWorld f d h s y e k f n o
+Hello World
+d
+y
+args[0]
+
+C:\Users\apurv\OneDrive\Desktop\Core Java Workspace\NotepadJavaFiles>

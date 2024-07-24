@@ -1,0 +1,43 @@
+package basicPrograms;
+
+
+public class HelloWorld {
+	public static void main(String[] args) {
+	
+		
+		System.out.println("Hello World");
+		Employee  e1= new Employee();
+		Employee e2= new Employee();
+		Employee e3= new Employee();
+		
+		e1.id=1;
+		e1.name="Sourabh";
+		e1.salary=50000;
+		e1.age=27;
+		
+		e2.id=2;
+		e2.name="Appu";
+		e2.salary=30000;
+		e2.age=26;
+		
+		e3.id=3;
+		e3.name="Rutu";
+		e3.salary=3500;
+		e3.age=19;
+		
+	
+	}
+	
+}
+
+
+class Employee{
+	int id;
+	String name;
+	int age;
+	long salary;
+	
+	
+	
+	
+}

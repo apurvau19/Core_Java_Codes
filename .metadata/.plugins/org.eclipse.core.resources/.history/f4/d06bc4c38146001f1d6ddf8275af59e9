@@ -1,0 +1,14 @@
+package basicPrograms;
+
+public class IdentifierRulesEx1{
+
+	public static void main(String[] args) {
+	//int ^%#=10;	shows CE
+		int total = 10;
+		//int num# = 20;
+		
+		
+
+	}
+
+}

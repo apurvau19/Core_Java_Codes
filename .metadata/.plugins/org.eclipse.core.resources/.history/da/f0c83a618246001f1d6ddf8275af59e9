@@ -1,0 +1,18 @@
+package basicPrograms;
+
+public class IdentifierRulesEx1{
+
+	public static void main(String[] args){
+	//int ^%#=10;	shows CE
+		//Rule1: identifiers should start with letter only
+		int total= 10;
+		//int num# = 20;
+		int abc= 19;
+		int 1fwsuh = 30;
+		
+		//Rule2: identifiers should start with letter only
+
+
+	}
+
+}

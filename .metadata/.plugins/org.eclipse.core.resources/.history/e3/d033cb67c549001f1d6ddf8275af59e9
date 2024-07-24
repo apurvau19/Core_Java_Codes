@@ -1,0 +1,13 @@
+package basicPrograms;
+
+public class NumericDTEx1 {
+	public static void main(String[] args) {
+		byte a = 10;
+		byte e = 4;
+		int r = a+e;
+		int w=a;
+		System.out.println(r);
+		System.out.println(w);
+	}
+
+}
